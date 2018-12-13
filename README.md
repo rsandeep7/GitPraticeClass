@@ -1,2 +1,0 @@
-# GitPraticeClass
-Hi dude
